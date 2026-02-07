@@ -1,7 +1,7 @@
 ## Demo
 
 Prototype demo (pre-release):
-https://github.com/rupabarma/job-company-trust-scoring-system/releases/tag/demo-v1.0
+https://www.loom.com/share/21222a50fc9a4ecaa34bd041cc6fdc0b
 
 
 # Job & Company Trust Scoring System
