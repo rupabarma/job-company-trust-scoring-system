@@ -1,3 +1,9 @@
+## Demo
+
+Prototype demo (pre-release):
+https://github.com/rupabarma/job-company-trust-scoring-system/releases/tag/demo-v1.0
+
+
 # Job & Company Trust Scoring System
 
 A proof-of-concept machine learning system that evaluates the trustworthiness of hiring companies or recruiters on job platforms using risk signals. The system outputs a neutral **Trust Level** and **Risk Score**—not a public label—to support Trust & Safety and user due diligence.
